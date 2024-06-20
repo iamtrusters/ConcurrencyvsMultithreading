@@ -24,3 +24,17 @@ git add . -> add tat cac cac file
 
 bảo push lên đâu 
 git remote add origin https://github.com/iamtrusters/ConcurrencyvsMultithreading.git
+
+
+
+Advanced Git
+-git branch
+-git checkout
+-git merge
+
+-git rebase
+-git cherry-pick 
+
+
+
+Pull Request 
