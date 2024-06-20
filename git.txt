@@ -1,0 +1,26 @@
+
+git: source control, version control
+github nơi lưu source code, quản lí source code, request, clone, commit,...
+repo:
+commit
+branch
+
+
+Basic commands
+
+-git init: tạo ra 1 repository trong máy
+-git clone: lấy trên mạng về
+-git pull: đồng bộ trên mạng về máy
+
+-git add vs git add: thêm file, chuẩn bị sẵn sàng để commit  
+--> git add git.cpp
+git add . -> add tat cac cac file
+-git commit: sửa
+--> git commit -m "Message to be sent"
+-git push: đẩy lên đồng bộ máy vs mạng 
+
+-git log : check status
+-git log - decorate -graph -oneline
+
+bảo push lên đâu 
+git remote add origin https://github.com/iamtrusters/ConcurrencyvsMultithreading.git
